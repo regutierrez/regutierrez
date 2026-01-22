@@ -4,13 +4,11 @@
 
 # Rafael "Pael" Gutierrez
 
-Hi! I'm Pael (he/him). I'm a geodetic engineer who transitioned to tech. When I wrote a Python script to determine Bone Clinkz's (my favorite Dota hero) damage based on item stats, enemy stats, and hero level, I quickly fell in love with coding.  I've been working as a software engineer for over three years. I've gained experience working with [Accenture](https://www.accenture.com/us-en), [Arup](https://www.arup.com/), and [Kodexa](https://kodexa.ai/), and have quickly learned different tech stacks (Python, Javascript, SAP ABAP, Vue, etc.) along the way.
+Hi! I'm Pael (he/him). I'm a geodetic engineer who fell in love with coding after a janky Dota CLI script, and I've been a software engineer for a few years now. I had success channeling my laziness into making tools that make those painful, manual work go away.
 
-My _weapon of choice_ is Python, and actively learning Go and other backend stuff on [bootdev](boot.dev). Right now, I'm doing part-time work with the construction firm [SBStruc](https://www.facebook.com/SBStruc) to create an app that automates boring, mundane processes in their structrual design workflow. Check it out here: [SBS-BESI](https://github.com/SBStruc/SBS-BES)
+Outside of code: 
+- I'm a professional singer
+- I like playing games. I mainly play League (ADC), and Dota 2 (Pos 1)
+- I like homelabbing and self-hosting random stuff
 
-I currently work at [Aescape](https://www.aescape.com/), but I'm open to doing opensource/project collaborations on the side.
-
-
-### Random things about me:
-- I play League (ADC, Dia 2 peak), Dota 2 (Pos 1, Legend 4 peak), and Wild Rift (ADC, GM peak)
-- I am the vocalist of **[Room for Cielo](https://www.youtube.com/roomforcielo)**, an _old-soul_ pop band in the Philippines
+Wanna know more? Visit my [blog](https://pael.dev)
