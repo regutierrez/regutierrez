@@ -1,14 +1,4 @@
 
 ![roomforcielo_perf_pinoyplaylist](https://github.com/regutierrez/regutierrez/assets/11924623/67b2113c-9516-4ea1-9b7e-11498b46516a)
 
-
-Hi, I’m Pael (he/him)!
-
-I’m a geodetic engineer who fell in love with coding after a janky Dota CLI script, and I’ve been a software engineer for a few years now. I’ve had success channeling my laziness into making tools that make painful manual work go away. :wave:
-
-Outside of code:
-- I’m a professional singer.
-- I like playing games. I mainly play League (ADC) and Dota 2 (Pos 1).
-- I like homelabbing and self-hosting random stuff.
-
-Wanna know more? Visit my [blog](https://pael.dev)!
+I code, I sing, I self-host, I obsess over tooling, I cook, I eat, I sleep. Rinse and repeat.
